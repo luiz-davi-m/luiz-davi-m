@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Texto Corrido</p>
+Software engineer and Computer Science undergraduate at UFAPE with 3 years of experience in national and international projects. Specialized in backend development, with strong expertise in Ruby on Rails, and experience with Java (Spring), Nest.js, Laravel, Angular, and React. Passionate about solving challenges, continuous learning, and contributing to collaborative and growth-oriented teams.
 
 ###
 
